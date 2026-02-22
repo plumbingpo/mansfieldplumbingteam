@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mansfieldplumbingteam.com/sitemap.xml
